@@ -16,23 +16,23 @@ public class biodataperhitungan {
 		System.out.println("Lahir   :di Ujung Pandang, 05 April 1994");
 		System.out.println("Hobi    :Futsal");
 		//aritmatika
-		System.out.println(jumlah(2,2));
-		System.out.println(kurang(2,2));
+		System.out.println(jumlah(2,2)); //INI MAKSUDNYA APA YAH? BERIKAN PENJELASAN DISINI
+		System.out.println(kurang(2,2)); //INI MAKSUDNYA APA YAH? BERIKAN PENJELASAN DISINI
 		System.out.println(kali(2,2));
 		System.out.println(bagi(2,2));
 		
 	}
 	
-	static int jumlah(int a, int b){
-		return a+b; 
+	static int jumlah(int a, int b){ //INI MAKSUDNYA APA YAH? BERIKAN PENJELASAN DISINI
+		return a+b; //INI MAKSUDNYA APA YAH? BERIKAN PENJELASAN DISINI
 	}
 	
-	static int kurang(int a, int b){
-		return a-b;
+	static int kurang(int a, int b){ //INI MAKSUDNYA APA YAH? BERIKAN PENJELASAN DISINI
+		return a-b; //INI MAKSUDNYA APA YAH? BERIKAN PENJELASAN DISINI
 	}
 	
-	static int kali(int a, int b){
-		return a*b;
+	static int kali(int a, int b){ //INI MAKSUDNYA APA YAH? BERIKAN PENJELASAN DISINI
+		return a*b; //INI MAKSUDNYA APA YAH? BERIKAN PENJELASAN DISINI
 	}
 	
 	static float bagi(int a, int b){
